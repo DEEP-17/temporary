@@ -1,1 +1,1 @@
-# temporary repo
+# temporary repository
